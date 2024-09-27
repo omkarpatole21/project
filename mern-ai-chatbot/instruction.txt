@@ -1,0 +1,8 @@
+cd backend
+npm i
+
+split ternimal
+
+cd frontend
+npm i
+npm run dev
